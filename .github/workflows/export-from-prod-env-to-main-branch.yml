@@ -1,4 +1,4 @@
-name: Export from Eviroment
+name: Export from Environment Dev tenant
 on: 
   workflow_dispatch:
     inputs:
